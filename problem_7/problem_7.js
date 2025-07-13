@@ -6,7 +6,6 @@ function filter(arr, fn) {
       filteredArr.push(arr[i]);
     }
   }
-
   return filteredArr;
 }
 
